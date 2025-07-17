@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.uney.livevpn",
+      "package_name": "com.uney.livevpn",
+      "sha256_cert_fingerprints": [
+        "26:6D:4F:9D:8A:CC:33:17:61:56:EF:EF:D0:A0:F1:05:3F:DD:66:27:4C:DF:1E:BE:D4:35:39:9A:61:35:9A:72"
+      ]
+    }
+  }
+]
